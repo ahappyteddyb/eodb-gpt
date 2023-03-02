@@ -1,0 +1,37 @@
+html {
+  background-color: seagreen;
+}
+
+.bgdarkkhaki {
+  background-color: darkkhaki;
+}
+
+.darkblu {
+  background-color: darkblue;
+  color: aliceblue;
+  margin-top: 80px;
+  padding: 80px;
+  text-align: center;
+
+  border: 10px solid red;
+}
+
+.big-text {
+  font-size: 18pt;
+}
+
+a {
+  background-color: #66c971;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 30px;
+  font-weight: bold;
+  border-radius: 150px;
+  display: block;
+}
+
+a:hover {
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 150px;
+}
