@@ -1,0 +1,27 @@
+html {
+  background-color: gray;
+  color: seagreen;
+}
+
+.div1 {
+  background-color: ivory;
+  margin: 375px;
+  text-align: center;
+  padding: 100px;
+  font-size: large;
+  border-style: solid;
+  border-color: burlywood;
+  border-radius: 50%;
+  border-width: 7pt;
+}
+
+.mainbutton {
+  background-color: tan;
+  border-radius: 50%;
+  border-style: groove;
+  border-color: navajowhite;
+  border-width: 8pt;
+  border-style: outset;
+  font-size: larger;
+  font-style: italic;
+}
