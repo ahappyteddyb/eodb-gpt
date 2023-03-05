@@ -1,0 +1,59 @@
+:root{
+
+     --dcinside-blue : #3b4890
+}
+
+.parent{
+     gap: 20px;
+     display: flex;
+     padding: 20px;
+}
+.menubar {
+
+background-color: var(--dcinside-blue);
+}
+
+
+.parent div {
+     color: #ffffff;
+     font-size: 15pt;
+     font-weight: bold;
+}
+
+.parent div:hover {
+
+     text-decoration-line: underline;
+     cursor: pointer
+}
+
+.minigall::after {
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  /* background-color: blueviolet;
+  display: flex;
+  height: 300px;
+  justify-content: space-between; */
+  /* 가로 기준 정렬 */
+  /* center space-between:끝에서부터 자동으로 정렬. space-around:끝에도 일정하게 간격 줌. 제일 많이 씀 */
+  /* align-items: center; */
+  /* 세로 기준 정렬 */
+  /* flex-start:위에서 부터 정렬 center flex-end:아래에서 부터 정렬  */
+
+
+/* span {
+  background-color: chartreuse;
+}
